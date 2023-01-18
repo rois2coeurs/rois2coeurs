@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=rois2coeurs&theme=github_dark)
 
-![Top Langs](https://readme-stats.clckblog.space//top-langs/?username=rois2coeurs&theme=github_dark)
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=rois2coeurs&theme=github_dark)
 
 <!--
 **rois2coeurs/rois2coeurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
