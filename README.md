@@ -1,19 +1,18 @@
-
-![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=rois2coeurs&theme=github_dark)
-
-![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=rois2coeurs&theme=github_dark)
-
-<!--
-**rois2coeurs/rois2coeurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> Hello 🫡, i'm Valentin alias rois2ceurs </h1>
+<h3 align="center">  Full Stack developpment, DevOps, networks enjoyer and <a href="https://github.com/kamranahmedse/developer-roadmap">roadmap.sh</a> adapte</h3>
+<hr>
+<ul>
+    <li>
+        🎓 Third year student of a computer science degrees
+    </li>
+    <li>
+        🔬 Currently learning javascript in depth on <a href="https://github.com/kamranahmedse/developer-roadmap">roadmap.sh</a> 
+    </li>
+    <li>
+        🎮 A big player of the game <a href="https://warframe.com/">Warframe</a> 
+    </li>
+</ul>
+<hr>
+<h2>My stats 😎</h2>
+<p><img align="left" src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api?username=rois2coeurs&show_icons=true&theme=dark&layout=compact&hide_border=true"></p>
+<p><img src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api/top-langs/?username=rois2coeurs&theme=dark&layout=compact&hide_border=true"></p>
