@@ -15,4 +15,4 @@
 <hr>
 <h2>My stats 😎</h2>
 <p><img align="left" src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api?username=rois2coeurs&show_icons=true&theme=dark&layout=compact&hide_border=true"></p>
-<p><img src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api/top-langs/?username=rois2coeurs&theme=dark&layout=compact&hide_border=true"></p>
+<p><img src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api/top-langs/?username=rois2coeurs&theme=dark&layout=compact&hide_border=true&langs_count=8"></p>
