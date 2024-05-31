@@ -16,3 +16,5 @@
 <h2>My stats 😎</h2>
 <p><img align="left" src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api?username=rois2coeurs&show_icons=true&theme=dark&layout=compact&hide_border=true"></p>
 <p><img src="https://github-readme-stats-valentins-projects-37a4eb8d.vercel.app/api/top-langs/?username=rois2coeurs&theme=dark&layout=compact&hide_border=true&langs_count=8"></p>
+<h2>My roadmap card 🥳</h2>
+<a href="https://roadmap.sh"><img align="center" src="https://roadmap.sh/card/tall/651741b7baf19d9da116ca0f?variant=dark" alt="roadmap.sh"/></a>
